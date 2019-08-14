@@ -1,0 +1,280 @@
+attribute,type,meaning,missing_or_unknown
+AGER_TYP,categorical,unknown,[-1]
+ALTERSKATEGORIE_GROB,categorical,unknown,"[-1, 0]"
+ALTER_HH,interval,unknown / no main age detectable,[0]
+ANREDE_KZ,categorical,unknown,"[-1, 0]"
+BALLRAUM,ordinal,unknown,[-1]
+BIP_FLAG,binary,unknown,[-1]
+CAMEO_DEUG_2015,categorical,unknown,[-1]
+CAMEO_DEUINTL_2015,categorical,unknown,[-1]
+CJT_GESAMTTYP,categorical,unknown,[0]
+D19_BANKEN_ANZ_12,ordinal,no transactions known,[0]
+D19_BANKEN_ANZ_24,ordinal,no transactions known,[0]
+D19_BANKEN_DIREKT_RZ,categorical,no transaction known,[10]
+D19_BANKEN_GROSS_RZ,categorical,no transaction known,[0]
+D19_BANKEN_LOKAL_RZ,categorical,no transaction known,[0]
+D19_BANKEN_ONLINE_QUOTE_12,ordinal,no Online-transactions within the last 12 months,[0]
+D19_BANKEN_REST_RZ,categorical,no transaction known,[10]
+D19_BEKLEIDUNG_GEH_RZ,categorical,no transaction known,[10]
+D19_BEKLEIDUNG_REST_RZ,categorical,no transaction known,[0]
+D19_BILDUNG_RZ,categorical,no transaction known,[0]
+D19_BIO_OEKO_RZ,categorical,no transaction known,[0]
+D19_BUCH_RZ,categorical,no transaction known,[0]
+D19_DIGIT_SERV_RZ,categorical,no transaction known,[0]
+D19_DROGERIEARTIKEL_RZ,categorical,no transaction known,[0]
+D19_ENERGIE_RZ,categorical,no transaction known,[0]
+D19_FREIZEIT_RZ,categorical,no transaction known,[0]
+D19_GARTEN_RZ,categorical,no transaction known,[0]
+D19_GESAMT_ANZ_12,ordinal,no transactions known,[0]
+D19_GESAMT_ANZ_24,ordinal,no transactions known,[0]
+D19_GESAMT_ONLINE_QUOTE_12,ordinal,no Online-transactions within the last 12 months,[0]
+D19_HANDWERK_RZ,categorical,no transaction known,[0]
+D19_HAUS_DEKO_RZ,categorical,no transaction known,[0]
+D19_KINDERARTIKEL_RZ,categorical,no transaction known,[10]
+D19_KK_KUNDENTYP,categorical,unknown,[10]
+D19_KOSMETIK_RZ,categorical,no transaction known,[10]
+D19_LEBENSMITTEL_RZ,categorical,no transaction known,[0]
+D19_LOTTO_RZ,categorical,no transaction known,[0]
+D19_NAHRUNGSERGAENZUNG_RZ,categorical,no transaction known,[0]
+D19_RATGEBER_RZ,categorical,no transaction known,[0]
+D19_REISEN_RZ,categorical,no transaction known,[-1]
+D19_SAMMELARTIKEL_RZ,categorical,no transaction known,[0]
+D19_SCHUHE_RZ,categorical,no transaction known,[0]
+D19_SONSTIGE_RZ,categorical,no transaction known,[0]
+D19_TECHNIK_RZ,categorical,no transaction known,[0]
+D19_TELKO_ANZ_12,ordinal,no transactions known,[0]
+D19_TELKO_ANZ_24,ordinal,no transactions known,[0]
+D19_TELKO_MOBILE_RZ,categorical,no transaction known,[0]
+D19_TELKO_REST_RZ,categorical,no transaction known,[0]
+D19_TIERARTIKEL_RZ,categorical,no transaction known,[0]
+D19_VERSAND_ANZ_12,ordinal,no transactions known,[0]
+D19_VERSAND_ANZ_24,ordinal,no transactions known,[0]
+D19_VERSAND_ONLINE_QUOTE_12,ordinal,no Online-transactions within the last 12 months,[0]
+D19_VERSAND_REST_RZ,categorical,no transaction known,[10]
+D19_VERSICHERUNGEN_RZ,categorical,no transaction known,[0]
+D19_VERSI_ANZ_12,ordinal,no transactions known,[10]
+D19_VERSI_ANZ_24,ordinal,no transactions known,[10]
+D19_VOLLSORTIMENT_RZ,categorical,no transaction known,[0]
+D19_WEIN_FEINKOST_RZ,categorical,no transaction known,[0]
+EWDICHTE,ordinal,unknown,[0]
+FINANZTYP,categorical,unknown,[0]
+FINANZ_ANLEGER,ordinal,unknown,[10]
+FINANZ_HAUSBAUER,ordinal,unknown,[10]
+FINANZ_MINIMALIST,ordinal,unknown,[10]
+FINANZ_SPARER,ordinal,unknown,[0]
+FINANZ_UNAUFFAELLIGER,ordinal,unknown,[0]
+FINANZ_VORSORGER,ordinal,unknown,[0]
+GEBAEUDETYP,categorical,unknown,[0]
+GEOSCORE_KLS7,ordinal,unknown,[0]
+HAUSHALTSSTRUKTUR,categorical,unknown,[0]
+HEALTH_TYP,categorical,unknown,[0]
+HH_EINKOMMEN_SCORE,ordinal,unknown,[-1]
+INNENSTADT,ordinal,unknown,[-1]
+KBA05_ALTER1,ordinal,unknown,[-1]
+KBA05_ALTER2,ordinal,unknown,[-1]
+KBA05_ALTER3,ordinal,unknown,[-1]
+KBA05_ALTER4,ordinal,unknown,[-1]
+KBA05_ANHANG,ordinal,unknown,[-1]
+KBA05_ANTG1,ordinal,unknown,[-1]
+KBA05_ANTG2,ordinal,unknown,"[-1, 0]"
+KBA05_ANTG3,ordinal,unknown,"[-1, 0]"
+KBA05_ANTG4,ordinal,unknown,"[-1, 0]"
+KBA05_BAUMAX,ordinal,unknown,[-1]
+KBA05_CCM1,ordinal,unknown,"[-1, 0]"
+KBA05_CCM2,ordinal,unknown,[-1]
+KBA05_CCM3,ordinal,unknown,"[-1, 9]"
+KBA05_CCM4,ordinal,unknown,[0]
+KBA05_DIESEL,ordinal,unknown,"[-1, 9]"
+KBA05_FRAU,ordinal,unknown,"[-1, 9]"
+KBA05_GBZ,ordinal,unknown,"[-1, 9]"
+KBA05_HERST1,ordinal,unknown,[0]
+KBA05_HERST2,ordinal,unknown,"[-1, 9]"
+KBA05_HERST3,ordinal,unknown,[0]
+KBA05_HERST4,ordinal,unknown,[-1]
+KBA05_HERST5,ordinal,unknown,[-1]
+KBA05_HERSTTEMP,ordinal,unknown,[-1]
+KBA05_KRSAQUOT,ordinal,unknown,[-1]
+KBA05_KRSHERST1,ordinal,unknown,"[-1, 9]"
+KBA05_KRSHERST2,ordinal,unknown,"[-1, 0]"
+KBA05_KRSHERST3,ordinal,unknown,"[-1, 9]"
+KBA05_KRSKLEIN,ordinal,unknown,"[-1, 9]"
+KBA05_KRSOBER,ordinal,unknown,"[-1, 9]"
+KBA05_KRSVAN,ordinal,unknown,"[-1, 9]"
+KBA05_KRSZUL,ordinal,unknown,[0]
+KBA05_KW1,ordinal,unknown,"[-1, 9]"
+KBA05_KW2,ordinal,unknown,[0]
+KBA05_KW3,ordinal,unknown,"[-1, 9]"
+KBA05_MAXAH,ordinal,unknown,"[-1, 0]"
+KBA05_MAXBJ,ordinal,unknown,"[-1, 9]"
+KBA05_MAXHERST,categorical,unknown,[0]
+KBA05_MAXSEG,ordinal,unknown,"[-1, 9]"
+KBA05_MAXVORB,categorical,unknown,[0]
+KBA05_MOD1,ordinal,unknown,"[-1, 9]"
+KBA05_MOD2,ordinal,unknown,[0]
+KBA05_MOD3,ordinal,unknown,"[-1, 9]"
+KBA05_MOD4,ordinal,unknown,[0]
+KBA05_MOD8,ordinal,unknown,"[-1, 9]"
+KBA05_MODTEMP,categorical,unknown,[0]
+KBA05_MOTOR,ordinal,unknown,"[-1, 9]"
+KBA05_MOTRAD,ordinal,unknown,"[-1, 9]"
+KBA05_SEG1,ordinal,unknown,"[-1, 9]"
+KBA05_SEG10,ordinal,unknown,"[-1, 9]"
+KBA05_SEG2,ordinal,unknown,"[-1, 9]"
+KBA05_SEG3,ordinal,unknown,"[-1, 9]"
+KBA05_SEG4,ordinal,unknown,"[-1, 9]"
+KBA05_SEG5,ordinal,unknown,"[-1, 9]"
+KBA05_SEG6,binary,unknown,"[-1, 9]"
+KBA05_SEG7,ordinal,unknown,"[-1, 9]"
+KBA05_SEG8,ordinal,unknown,"[-1, 9]"
+KBA05_SEG9,ordinal,unknown,"[-1, 9]"
+KBA05_VORB0,ordinal,unknown,[0]
+KBA05_VORB1,ordinal,unknown,"[-1, 9]"
+KBA05_VORB2,ordinal,unknown,"[-1, 9]"
+KBA05_ZUL1,ordinal,unknown,"[-1, 9]"
+KBA05_ZUL2,ordinal,unknown,"[-1, 9]"
+KBA05_ZUL3,ordinal,unknown,"[-1, 9]"
+KBA05_ZUL4,ordinal,unknown,"[-1, 9]"
+KBA13_ALTERHALTER_30,ordinal,unknown,[0]
+KBA13_ALTERHALTER_45,ordinal,unknown,"[-1, 9]"
+KBA13_ALTERHALTER_60,ordinal,unknown,"[-1, 9]"
+KBA13_ALTERHALTER_61,ordinal,unknown,"[-1, 9]"
+KBA13_AUDI,ordinal,unknown,[0]
+KBA13_AUTOQUOTE,ordinal,unknown,"[-1, 9]"
+KBA13_BJ_1999,ordinal,unknown,[0]
+KBA13_BJ_2000,ordinal,unknown,"[-1, 9]"
+KBA13_BJ_2004,ordinal,unknown,"[-1, 9]"
+KBA13_BJ_2006,ordinal,unknown,"[-1, 9]"
+KBA13_BJ_2008,ordinal,unknown,[0]
+KBA13_BJ_2009,ordinal,unknown,"[-1, 9]"
+KBA13_BMW,ordinal,unknown,[0]
+KBA13_CCM_1000,ordinal,unknown,"[-1, 9]"
+KBA13_CCM_1200,ordinal,unknown,[0]
+KBA13_CCM_1400,ordinal,unknown,"[-1, 9]"
+KBA13_CCM_0_1400,ordinal,unknown,"[-1, 9]"
+KBA13_CCM_1500,ordinal,unknown,"[-1, 9]"
+KBA13_CCM_1400_2500,ordinal,unknown,"[-1, 9]"
+KBA13_CCM_1600,ordinal,unknown,[0]
+KBA13_CCM_1800,ordinal,unknown,"[-1, 9]"
+KBA13_CCM_2000,ordinal,unknown,[0]
+KBA13_CCM_2500,ordinal,unknown,"[-1, 9]"
+KBA13_CCM_2501,ordinal,unknown,[0]
+KBA13_CCM_3000,ordinal,unknown,"[-1, 9]"
+KBA13_CCM_3001,ordinal,unknown,[0]
+KBA13_FAB_ASIEN,ordinal,unknown,"[-1, 9]"
+KBA13_FAB_SONSTIGE,ordinal,unknown,[0]
+KBA13_FIAT,ordinal,unknown,"[-1, 9]"
+KBA13_FORD,ordinal,unknown,"[-1, 9]"
+KBA13_HALTER_20,ordinal,unknown,"[-1, 9]"
+KBA13_HALTER_25,ordinal,unknown,[0]
+KBA13_HALTER_30,ordinal,unknown,"[-1, 9]"
+KBA13_HALTER_35,ordinal,unknown,"[-1, 9]"
+KBA13_HALTER_40,ordinal,unknown,"[-1, 9]"
+KBA13_HALTER_45,ordinal,unknown,[0]
+KBA13_HALTER_50,ordinal,unknown,"[-1, 9]"
+KBA13_HALTER_55,ordinal,unknown,[0]
+KBA13_HALTER_60,ordinal,unknown,[-1]
+KBA13_HALTER_65,ordinal,unknown,[0]
+KBA13_HALTER_66,ordinal,unknown,[-1]
+KBA13_HERST_ASIEN,ordinal,unknown,[0]
+KBA13_HERST_AUDI_VW,ordinal,unknown,[-1]
+KBA13_HERST_BMW_BENZ,ordinal,unknown,[0]
+KBA13_HERST_EUROPA,ordinal,unknown,[-1]
+KBA13_HERST_FORD_OPEL,ordinal,unknown,[0]
+KBA13_HERST_SONST,ordinal,unknown,[-1]
+KBA13_KMH_110,ordinal,unknown,[0]
+KBA13_KMH_140,ordinal,unknown,[-1]
+KBA13_KMH_180,ordinal,unknown,[0]
+KBA13_KMH_0_140,ordinal,unknown,[-1]
+KBA13_KMH_140_210,ordinal,unknown,[0]
+KBA13_KMH_211,ordinal,unknown,[-1]
+KBA13_KMH_250,ordinal,unknown,[0]
+KBA13_KMH_251,ordinal,unknown,[-1]
+KBA13_KRSAQUOT,ordinal,unknown,[0]
+KBA13_KRSHERST_AUDI_VW,ordinal,unknown,[-1]
+KBA13_KRSHERST_BMW_BENZ,ordinal,unknown,[0]
+KBA13_KRSHERST_FORD_OPEL,ordinal,unknown,[-1]
+KBA13_KRSSEG_KLEIN,ordinal,unknown,[0]
+KBA13_KRSSEG_OBER,ordinal,unknown,[-1]
+KBA13_KRSSEG_VAN,ordinal,unknown,[0]
+KBA13_KRSZUL_NEU,ordinal,unknown,[-1]
+KBA13_KW_30,ordinal,unknown,[0]
+KBA13_KW_40,ordinal,unknown,[-1]
+KBA13_KW_50,ordinal,unknown,[0]
+KBA13_KW_60,ordinal,unknown,[-1]
+KBA13_KW_0_60,ordinal,unknown,[0]
+KBA13_KW_70,ordinal,unknown,[-1]
+KBA13_KW_61_120,ordinal,unknown,[0]
+KBA13_KW_80,ordinal,unknown,[-1]
+KBA13_KW_90,ordinal,unknown,[0]
+KBA13_KW_110,ordinal,unknown,[-1]
+KBA13_KW_120,ordinal,unknown,[0]
+KBA13_KW_121,ordinal,unknown,[-1]
+KBA13_MAZDA,ordinal,unknown,[0]
+KBA13_MERCEDES,ordinal,unknown,[-1]
+KBA13_MOTOR,ordinal,unknown,[0]
+KBA13_NISSAN,ordinal,unknown,[-1]
+KBA13_OPEL,ordinal,unknown,[0]
+KBA13_PEUGEOT,ordinal,unknown,[-1]
+KBA13_RENAULT,ordinal,unknown,[0]
+KBA13_SEG_GELAENDEWAGEN,ordinal,unknown,[-1]
+KBA13_SEG_GROSSRAUMVANS,ordinal,unknown,[0]
+KBA13_SEG_KLEINST,ordinal,unknown,[-1]
+KBA13_SEG_KLEINWAGEN,ordinal,unknown,[0]
+KBA13_SEG_KOMPAKTKLASSE,ordinal,unknown,[-1]
+KBA13_SEG_MINIVANS,ordinal,unknown,[0]
+KBA13_SEG_MINIWAGEN,ordinal,unknown,[-1]
+KBA13_SEG_MITTELKLASSE,ordinal,unknown,[0]
+KBA13_SEG_OBEREMITTELKLASSE,ordinal,unknown,[-1]
+KBA13_SEG_OBERKLASSE,ordinal,unknown,[0]
+KBA13_SEG_SONSTIGE,ordinal,unknown,[-1]
+KBA13_SEG_SPORTWAGEN,ordinal,unknown,[0]
+KBA13_SEG_UTILITIES,ordinal,unknown,[-1]
+KBA13_SEG_VAN,ordinal,unknown,[0]
+KBA13_SEG_WOHNMOBILE,ordinal,unknown,[-1]
+KBA13_SITZE_4,ordinal,unknown,[0]
+KBA13_SITZE_5,ordinal,unknown,[-1]
+KBA13_SITZE_6,ordinal,unknown,[0]
+KBA13_TOYOTA,ordinal,unknown,[-1]
+KBA13_VORB_0,ordinal,unknown,[0]
+KBA13_VORB_1,ordinal,unknown,[-1]
+KBA13_VORB_1_2,ordinal,unknown,[0]
+KBA13_VORB_2,ordinal,unknown,[-1]
+KBA13_VORB_3,ordinal,unknown,[0]
+KBA13_VW,ordinal,unknown,[-1]
+KKK,ordinal,unknown,[0]
+NATIONALITAET_KZ,categorical,unknown,[-1]
+ONLINE_AFFINITAET,ordinal,none,[0]
+ORTSGR_KLS9,ordinal,unknown,[-1]
+OST_WEST_KZ,categorical,unknown,[0]
+PLZ8_ANTG1,ordinal,unknown,[-1]
+PLZ8_ANTG2,ordinal,unknown,[0]
+PLZ8_ANTG3,ordinal,unknown,[-1]
+PLZ8_ANTG4,ordinal,unknown,[0]
+PLZ8_GBZ,ordinal,unknown,[-1]
+PLZ8_HHZ,ordinal,unknown,[0]
+PRAEGENDE_JUGENDJAHRE,mixed,unknown,[-1]
+REGIOTYP,categorical,unknown,[0]
+RETOURTYP_BK_S,categorical,unknown,[-1]
+SEMIO_DOM,ordinal,unknown,[0]
+SEMIO_ERL,ordinal,unknown,[-1]
+SEMIO_FAM,ordinal,unknown,[0]
+SEMIO_KAEM,ordinal,unknown,[-1]
+SEMIO_KRIT,ordinal,unknown,[0]
+SEMIO_KULT,ordinal,unknown,[-1]
+SEMIO_LUST,ordinal,unknown,[0]
+SEMIO_MAT,ordinal,unknown,[-1]
+SEMIO_PFLICHT,ordinal,unknown,[0]
+SEMIO_RAT,ordinal,unknown,[-1]
+SEMIO_REL,ordinal,unknown,[0]
+SEMIO_SOZ,ordinal,unknown,[-1]
+SEMIO_TRADV,ordinal,unknown,[0]
+SEMIO_VERT,ordinal,unknown,[-1]
+SHOPPER_TYP,categorical,unknown,[0]
+SOHO_FLAG,binary,unknown,[-1]
+TITEL_KZ,categorical,unknown,[0]
+VERS_TYP,categorical,unknown,[-1]
+WOHNDAUER_2008,ordinal,unknown,[0]
+WOHNLAGE,ordinal,unknown,[-1]
+WACHSTUMSGEBIET_NB,ordinal,unknown,[0]
+W_KEIT_KIND_HH,ordinal,unknown,[-1]
+ZABEOTYP,categorical,unknown,[0]
