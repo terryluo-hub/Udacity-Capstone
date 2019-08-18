@@ -23,7 +23,10 @@
 
 ## Summary: <a name="summary"></a>
 
-The data is provided by the Arvato Financial Solutions for the Udacity Data Science Nanodegree Program.
+The data is provided by the Arvato Financial Solutions for the Udacity Data Science Nanodegree Program. You can find the introduction at the following link: 
+
+https://medium.com/@terryluo.zk/customer-segmentation-report-for-arvato-financial-services-7eff4b67b395
+
 
 ## Data Files: <a name="files"></a>
 
@@ -44,3 +47,4 @@ There are six data sets provided with the project: The last file was created by 
 ## Instructions: <a name="instructions"></a>
 
 The data is provided by the Arvato Financial Solutions for the Udacity Data Science Nanodegree Program. The purpose of this analysis is to use demographics data to find out which portion of individuals will become customers for the company. Please see the jupyter note book file for the detail analysis.
+
