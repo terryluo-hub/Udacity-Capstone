@@ -16,9 +16,10 @@
 - pandas
 - numpy
 - sklearn
-- sqlalchemy
-- nltk
-- flask
+- random
+- collections
+- pickle
+- time
 
 ## Summary: <a name="summary"></a>
 
