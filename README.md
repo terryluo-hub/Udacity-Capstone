@@ -9,10 +9,16 @@
 
 ## Installation: <a name="installation"></a>
 
-Aside from the libraries included in the Anaconda distribution for Python versions 3.*, the following have been installed for this Jupyter notebook.
+### The following packages are required:
 
-1. [progressbar](https://pypi.org/project/progressbar/)
-2. [XGBRegressor](https://xgboost.readthedocs.io/en/latest/python/python_api.html)
+- json
+- plotly
+- pandas
+- numpy
+- sklearn
+- sqlalchemy
+- nltk
+- flask
 
 ## Summary: <a name="summary"></a>
 
